@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+I had sprite on the moon and found it to taste more refreshing on Earth.
